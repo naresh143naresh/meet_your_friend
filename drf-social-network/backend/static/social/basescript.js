@@ -81,7 +81,7 @@ function changeProfilePicture() {
 }
 
 
-/*
+
 
 function editPost(post_id) {
 	event.preventDefault();
@@ -333,4 +333,4 @@ function createPost() {
 		}
 	});
 }
-*/
+
